@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "サクラキミワタシ - SAKURA KIMI WATASHI",
+  "base_artist": "tuki.",
+  "createdAt": "2026-01-08T08:57:05.410368Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "サクラキミワタシ",
+      "artist": "tuki.",
+      "has_synced": true,
+      "path": "select/01_サクラキミワタシ_tuki..lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "サクラキミワタシ",
+      "artist": "tuki.",
+      "has_synced": false,
+      "path": "select/02_サクラキミワタシ_tuki..txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "サクラキミワタシ",
+      "artist": "tuki.",
+      "has_synced": true,
+      "path": "select/03_サクラキミワタシ_tuki..lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "サクラキミワタシ - SAKURA KIMI WATASHI",
+      "artist": "tuki.",
+      "has_synced": true,
+      "path": "select/04_サクラキミワタシ_-_SAKURA_KIMI_WATASHI_tuki..lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "サクラキミワタシ (piano ver.)",
+      "artist": "tuki.",
+      "has_synced": false,
+      "path": "select/05_サクラキミワタシ_(piano_ver.)_tuki..txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "サクラキミワタシ",
+      "artist": "tuki.",
+      "has_synced": false,
+      "path": "select/pl_01_サクラキミワタシ_tuki..txt"
+    }
+  ]
+}
